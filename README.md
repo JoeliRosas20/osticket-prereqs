@@ -25,9 +25,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Enable Internet Infornation Service (IIS).
 - Install Web Platform Installer.
 - Install PHP.
+- Install IIS URL Rewrite module 2.
 - Install MySQL.
 - Install C++ redistribution.
 - Configure permissions and install OS Ticket.
+- Install HeidiSQL to store the tickets in the database.
 
 <h2>Installation Steps</h2>
 
