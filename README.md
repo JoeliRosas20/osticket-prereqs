@@ -24,6 +24,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Enable Internet Infornation Service (IIS).
 - Install Web Platform Installer.
+- Install PHP.
 - Install MySQL.
 - Install C++ redistribution.
 - Configure permissions and install OS Ticket.
