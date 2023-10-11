@@ -66,3 +66,12 @@ Restart the IIS.
 On the right, click “Browse *:80”
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/tliVLmG.png" height="80%" width="80%" alt="Pick the file"/>
+</p>
+<p>
+Go back to IIS and go to:sites, then Default, and then osTicket. Double-click PHP Manager. Click “Enable or disable an extension.”
+Select and enable: php_imap.dll, php_intl.dll, php_opcache.dll. Refresh the osTicket site in your browse, observe the changes
+</p>
+<br />
