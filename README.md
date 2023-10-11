@@ -95,3 +95,12 @@ Go back to IIS and go to:sites, then Default, and then osTicket. Double-click PH
 Select and enable: php_imap.dll, php_intl.dll, php_opcache.dll. Refresh the osTicket site in your browse, observe the changes
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/SgmG1IV.png" height="40%" width="40%" alt="Pick typical"/>
+<img src="https://i.imgur.com/Y12zbJM.png" height="40%" width="40%" alt="Pick standard"/>
+</p>
+<p>
+When installing MySQL, pick typical and standard configuration.
+</p>
+<br />
