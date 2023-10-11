@@ -75,3 +75,14 @@ Go back to IIS and go to:sites, then Default, and then osTicket. Double-click PH
 Select and enable: php_imap.dll, php_intl.dll, php_opcache.dll. Refresh the osTicket site in your browse, observe the changes
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/wEPm87q.png" height="30%" width="30%" alt="Pick typical"/>
+<img src="https://i.imgur.com/wCdXoF5.png" height="30%" width="30%" alt="Pick standard"/>
+<img src="https://i.imgur.com/WHFKXzc.png" height="30%" width="30%" alt="Pick standard"/>
+</p>
+<p>
+Rename "C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php" to "C:\inetpub\wwwroot\osTicket\include\ost-config.php" Change its
+permissions by disabling ihheritance for all. then add everyone to all.
+</p>
+<br />
