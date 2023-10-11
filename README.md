@@ -60,7 +60,7 @@ Restart the IIS.
 <br />
 
 <p>
-<img src="https://i.imgur.com/b1K2huF.png" height="80%" width="80%" alt="Pick the file"/>
+<img src="https://i.imgur.com/b1K2huF.png" height="80%" width="80%" alt="click “Browse *:80”"/>
 </p>
 <p>
 On the right, click “Browse *:80”
@@ -68,7 +68,7 @@ On the right, click “Browse *:80”
 <br />
 
 <p>
-<img src="https://i.imgur.com/tliVLmG.png" height="80%" width="80%" alt="Pick the file"/>
+<img src="https://i.imgur.com/tliVLmG.png" height="80%" width="80%" alt="Enable extensions"/>
 </p>
 <p>
 Go back to IIS and go to:sites, then Default, and then osTicket. Double-click PHP Manager. Click “Enable or disable an extension.”
@@ -77,9 +77,9 @@ Select and enable: php_imap.dll, php_intl.dll, php_opcache.dll. Refresh the osTi
 <br />
 
 <p>
-<img src="https://i.imgur.com/wEPm87q.png" height="30%" width="30%" alt="Pick typical"/>
-<img src="https://i.imgur.com/wCdXoF5.png" height="30%" width="30%" alt="Pick standard"/>
-<img src="https://i.imgur.com/WHFKXzc.png" height="30%" width="30%" alt="Pick standard"/>
+<img src="https://i.imgur.com/wEPm87q.png" height="30%" width="30%" alt="Rename the file"/>
+<img src="https://i.imgur.com/wCdXoF5.png" height="30%" width="30%" alt="Assign permissions"/>
+<img src="https://i.imgur.com/WHFKXzc.png" height="30%" width="30%" alt="Giving permissions"/>
 </p>
 <p>
 Rename "C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php" to "C:\inetpub\wwwroot\osTicket\include\ost-config.php" Change its
@@ -88,19 +88,18 @@ permissions by disabling ihheritance for all. then add everyone to all.
 <br />
 
 <p>
-<img src="https://i.imgur.com/aQeBuIK.png" height="80%" width="80%" alt="Pick the file"/>
+<img src="https://i.imgur.com/aQeBuIK.png" height="80%" width="80%" alt="Help desk and email in OSTicket"/>
 </p>
 <p>
-Go back to IIS and go to:sites, then Default, and then osTicket. Double-click PHP Manager. Click “Enable or disable an extension.”
-Select and enable: php_imap.dll, php_intl.dll, php_opcache.dll. Refresh the osTicket site in your browse, observe the changes
+Hit the continue button and put the name for Help Desk and the email.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/SgmG1IV.png" height="40%" width="40%" alt="Pick typical"/>
-<img src="https://i.imgur.com/Y12zbJM.png" height="40%" width="40%" alt="Pick standard"/>
+<img src="https://i.imgur.com/SgmG1IV.png" height="40%" width="40%" alt="Download Heidi"/>
+<img src="https://i.imgur.com/Y12zbJM.png" height="40%" width="40%" alt="Add the database table"/>
 </p>
 <p>
-When installing MySQL, pick typical and standard configuration.
+Download HeidiSQL and continue setting up OSTicket in the browser. It should be finished.
 </p>
 <br />
