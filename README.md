@@ -58,3 +58,11 @@ Pick the “php-cgi” file. Copy the "upload" file and paste it to c:\inetpub\w
 Restart the IIS.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/b1K2huF.png" height="80%" width="80%" alt="Pick the file"/>
+</p>
+<p>
+On the right, click “Browse *:80”
+</p>
+<br />
