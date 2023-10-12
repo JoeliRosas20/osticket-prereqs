@@ -9,6 +9,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Video Demonstration</h2>
 
 - ### [YouTube: How To Install osTicket with Prerequisites](https://youtu.be/f8VGWHOyat4?si=4fEcoJ6egJzLFoiF)
+- <a href="https://youtu.be/f8VGWHOyat4?si=4fEcoJ6egJzLFoiF" target="_blank">YouTube: How To Install osTicket with Prerequisites</a>
 
 <h2>Environments and Technologies Used</h2>
 
